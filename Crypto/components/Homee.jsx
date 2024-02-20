@@ -31,7 +31,7 @@ const Homee = () => {
         textAlign={"center"}
         fontWeight={"thin"}
         color={"whiteAlpha.700"}
-        mt={"-20"}
+        mt={"-10"}
       >
         Crypto Live
       </Text>
